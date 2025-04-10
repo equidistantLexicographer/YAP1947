@@ -1,186 +1,184 @@
-<pre>
 TABLE OF CONTENTS
 
 PREFACE
 
-TIT. I. OUR LANGUAGE’S TYPE
-	Different languages
-	Our Visayan tongue
+TIT. I. OUR LANGUAGE’S TYPE<br>
+	&emsp; &emsp; Different languages<br>
+	&emsp; &emsp; Our Visayan tongue
 	
-TIT. II. VISAYAN AND HEBREW
-	The alphabet
-	Method of writing
-	The accents
-	Base words
-	Two important rules
-	Other similiarities
-	Gleanings from the Bible
-	Kindred words
-	A few lessons
+TIT. II. VISAYAN AND HEBREW<br>
+	&emsp; &emsp; The alphabet<br>
+	&emsp; &emsp; Method of writing<br>
+	&emsp; &emsp; The accents<br>
+	&emsp; &emsp; Base words<br>
+	&emsp; &emsp; Two important rules<br>
+	&emsp; &emsp; Other similiarities<br>
+	&emsp; &emsp; Gleanings from the Bible<br>
+	&emsp; &emsp; Kindred words<br>
+	&emsp; &emsp; A few lessons
 	
-TIT. III. THE USAGE OF THE HYPHEN
-	Dissenting reasons
-	A brief event
-	Concurring reasons
-	When to use the hyphen
+TIT. III. THE USAGE OF THE HYPHEN<br>
+	&emsp; &emsp; Dissenting reasons<br>
+	&emsp; &emsp; A brief event<br>
+	&emsp; &emsp; Concurring reasons<br>
+	&emsp; &emsp; When to use the hyphen
 	
-TIT. IV. THE ACCENT IN VISAYAN
-	Preface
-	That of Father Kaufmann’s
-	That of the three accents
-	The style of “Lungsuranon”
-		The acute accent
-		The final “h”
-		Reasons gathered
+TIT. IV. THE ACCENT IN VISAYAN<br>
+	&emsp; &emsp; Preface<br>
+	&emsp; &emsp; That of Father Kaufmann’s<br>
+	&emsp; &emsp; That of the three accents<br>
+	&emsp; &emsp; The style of “Lungsuranon”<br>
+		&emsp; &emsp; &emsp; &emsp; The acute accent<br>
+		&emsp; &emsp; &emsp; &emsp; The final “h”<br>
+		&emsp; &emsp; &emsp; &emsp; Reasons gathered
 	
-TIT. V. RULES OF USAGE
-	Preface
-	Consonants
-	Vowels
-	Syllables
-	Accent
-	Clarifications
+TIT. V. RULES OF USAGE<br>
+	&emsp; &emsp; Preface<br>
+	&emsp; &emsp; Consonants<br>
+	&emsp; &emsp; Vowels<br>
+	&emsp; &emsp; Syllables<br>
+	&emsp; &emsp; Accent<br>
+	&emsp; &emsp; Clarifications
 	
-TIT. VI. THE “CONTRACTION MARK”
-	Two threats
-	Concurring reasons
-	Responses
-	Gullas’ error
-	Dissenting reasons
+TIT. VI. THE “CONTRACTION MARK”<br>
+	&emsp; &emsp; Two threats<br>
+	&emsp; &emsp; Concurring reasons<br>
+	&emsp; &emsp; Responses<br>
+	&emsp; &emsp; Gullas’ error<br>
+	&emsp; &emsp; Dissenting reasons
 	
 TIT. VII. THE RULE AS TO “UO”
 	
-TIT. VIII. SUBDIVIDING OUR LEXICON
-	How it is to be subdivided
-	How many parts
-	The neatness of this subdivision
+TIT. VIII. SUBDIVIDING OUR LEXICON<br>
+	&emsp; &emsp; How it is to be subdivided<br>
+	&emsp; &emsp; How many parts<br>
+	&emsp; &emsp; The neatness of this subdivision
 	
-TIT. IX. THE NOUN-SUBSTIUTIVES
-	Not contrary to the new subdivision
-	Their meaning
-	How many cases are there in Bisaya
+TIT. IX. THE NOUN-SUBSTIUTIVES<br>
+	&emsp; &emsp; Not contrary to the new subdivision<br>
+	&emsp; &emsp; Their meaning<br>
+	&emsp; &emsp; How many cases are there in Bisaya
 	
-TIT. X. THE ATTRIBUTIVES
-	Actual traits
-	Tenses of our verbs
-	Table
-	A word as to the table
-	Features of the tenses
-	The meaning of “giisip”
-	List of our affixatives
-	The quantity of the forms
+TIT. X. THE ATTRIBUTIVES<br>
+	&emsp; &emsp; Actual traits<br>
+	&emsp; &emsp; Tenses of our verbs<br>
+	&emsp; &emsp; Table<br>
+	&emsp; &emsp; A word as to the table<br>
+	&emsp; &emsp; Features of the tenses<br>
+	&emsp; &emsp; The meaning of “giisip”<br>
+	&emsp; &emsp; List of our affixatives<br>
+	&emsp; &emsp; The quantity of the forms
 	
-TIT. XI. MEANING OF THE AFFIXATIVES
-	Methods in the comprehension of their meaning
-	The Perfects
-		“ma-” and “na-”
-	Different from Spanish and English
-		“maig-” and “mamag-”
-		“maka-” and “naka-”
-	Is “maka-” a potential
+TIT. XI. MEANING OF THE AFFIXATIVES<br>
+	&emsp; &emsp; Methods in the comprehension of their meaning<br>
+	&emsp; &emsp; The Perfects<br>
+		&emsp; &emsp; &emsp; &emsp; “ma-” and “na-”<br>
+	&emsp; &emsp; Different from Spanish and English<br>
+		&emsp; &emsp; &emsp; &emsp; “maig-” and “mamag-”<br>
+		&emsp; &emsp; &emsp; &emsp; “maka-” and “naka-”<br>
+	&emsp; &emsp; Is “maka-” a potential
 	
-TIT. XII. THE PERFECTS, CONTINUED
-		“makapa-” and “nakapa-”
-		“mu-”
-		“mi-” and “ni-”
-	It is different from Spanish
-		“-an” and “-un”
-		“ma- -an” and “na- -an”
-		“ka- -an”
-	Is “ka- -an” a potential
+TIT. XII. THE PERFECTS, CONTINUED<br>
+		&emsp; &emsp; &emsp; &emsp; “makapa-” and “nakapa-”<br>
+		&emsp; &emsp; &emsp; &emsp; “mu-”<br>
+		&emsp; &emsp; &emsp; &emsp; “mi-” and “ni-”<br>
+	&emsp; &emsp; It is different from Spanish<br>
+		&emsp; &emsp; &emsp; &emsp; “-an” and “-un”<br>
+		&emsp; &emsp; &emsp; &emsp; “ma- -an” and “na- -an”<br>
+		&emsp; &emsp; &emsp; &emsp; “ka- -an”<br>
+	&emsp; &emsp; Is “ka- -an” a potential
 	
-TIT. XIII. OTHER PERFECTS
-		“pa- -an”
-		“paka- -an”
-		“paka- -un”
-		“mapa- -an” and “napaka- -an”
-		“i-”
-	Difference between: “ma-” “i-” “-an” “-un”
-		“ipa-” and “ika-”
-		“ipaka-”
+TIT. XIII. OTHER PERFECTS<br>
+		&emsp; &emsp; &emsp; &emsp; “pa- -an”<br>
+		&emsp; &emsp; &emsp; &emsp; “paka- -an”<br>
+		&emsp; &emsp; &emsp; &emsp; “paka- -un”<br>
+		&emsp; &emsp; &emsp; &emsp; “mapa- -an” and “napaka- -an”<br>
+		&emsp; &emsp; &emsp; &emsp; “i-”<br>
+	Difference between: “ma-” “i-” “-an” “-un”<br>
+		&emsp; &emsp; &emsp; &emsp; “ipa-” and “ika-”<br>
+		&emsp; &emsp; &emsp; &emsp; “ipaka-”
 	
-TIT. XIV. THE IMPERFECTS
-		“naga-, nag-” “maga-, mag-”
-		“nagapa-, nagaka-” “magapa-, magaka-”
-		“nagapaka-” and “magapaka-”
-		“nagpanga-” “magpanga-”
+TIT. XIV. THE IMPERFECTS<br>
+		&emsp; &emsp; &emsp; &emsp; “naga-, nag-” “maga-, mag-”<br>
+		&emsp; &emsp; &emsp; &emsp; “nagapa-, nagaka-” “magapa-, magaka-”<br>
+		&emsp; &emsp; &emsp; &emsp; “nagapaka-” and “magapaka-”<br>
+		&emsp; &emsp; &emsp; &emsp; “nagpanga-” “magpanga-”
 	
-TIT. XV. OTHER IMPERFECTS
-		“pag-” “panag-” “pang-” “pagpang-”
-		“pagpa-” “pagka-”
-		“pagpaka-” “panagpaka-”
-		“pagpakanaga-” “pagpakamaga-”
+TIT. XV. OTHER IMPERFECTS<br>
+		&emsp; &emsp; &emsp; &emsp; “pag-” “panag-” “pang-” “pagpang-”<br>
+		&emsp; &emsp; &emsp; &emsp; “pagpa-” “pagka-”<br>
+		&emsp; &emsp; &emsp; &emsp; “pagpaka-” “panagpaka-”<br>
+		&emsp; &emsp; &emsp; &emsp; “pagpakanaga-” “pagpakamaga-”
 	
-TIT. XVI. THE PASSIVE IMPERFECTS
-		“gi-” “gina-”
-		“gipa-” “gika-” “gipaka-”
-		“gi- -an” “gipa- -an” “gika- -an” “gipaka- -an”
+TIT. XVI. THE PASSIVE IMPERFECTS<br>
+		&emsp; &emsp; &emsp; &emsp; “gi-” “gina-”<br>
+		&emsp; &emsp; &emsp; &emsp; “gipa-” “gika-” “gipaka-”<br>
+		&emsp; &emsp; &emsp; &emsp; “gi- -an” “gipa- -an” “gika- -an” “gipaka- -an”
 	
-TIT. XVII. OTHER PASSIVE IMPERFECTS
-		“gipanag-” and “gipang-”
-		“gipanag- -an” and “gipang- -an”
-		“gipapa-” and “gipapa- -an”
-		“gipanagpa-” and “gipanagpa- -an”
-		“gipapaka-” and “gipanagpaka-”
-		“ig-” and “iga-”
-		“pagapaka- -an” “pagapaka- -un”
+TIT. XVII. OTHER PASSIVE IMPERFECTS<br>
+		&emsp; &emsp; &emsp; &emsp; “gipanag-” and “gipang-”<br>
+		&emsp; &emsp; &emsp; &emsp; “gipanag- -an” and “gipang- -an”<br>
+		&emsp; &emsp; &emsp; &emsp; “gipapa-” and “gipapa- -an”<br>
+		&emsp; &emsp; &emsp; &emsp; “gipanagpa-” and “gipanagpa- -an”<br>
+		&emsp; &emsp; &emsp; &emsp; “gipapaka-” and “gipanagpaka-”<br>
+		&emsp; &emsp; &emsp; &emsp; “ig-” and “iga-”<br>
+		&emsp; &emsp; &emsp; &emsp; “pagapaka- -an” “pagapaka- -un”
 	
-TIT. XVIII. VERBS WHICH HAVE NOMINALITY
-		“Verbal Nouns”
-		“Abstract Nouns”
+TIT. XVIII. VERBS WHICH HAVE NOMINALITY<br>
+		&emsp; &emsp; &emsp; &emsp; “Verbal Nouns”<br>
+		&emsp; &emsp; &emsp; &emsp; “Abstract Nouns”
 	
-TIT. XVIX. IMPERATIVES
-	Their types
-	Their forms, reasons for it
-	Their meanings
+TIT. XVIX. IMPERATIVES<br>
+	&emsp; &emsp; Their types<br>
+	&emsp; &emsp; Their forms, reasons for it<br>
+	&emsp; &emsp; Their meanings
 	
-TIT. XX. OTHER INFLECTIONS
-	Indicating disposition
-	A few changes in pronunciation
-		“hing-” “hi-”
-	Strong insistence
-	Inchoative action
-	Habitual locative
-		“isig-” “masig-”
-		“hinay-” “punay-”
-	The reciprocative
+TIT. XX. OTHER INFLECTIONS<br>
+	&emsp; &emsp; Indicating disposition<br>
+	&emsp; &emsp; A few changes in pronunciation<br>
+		&emsp; &emsp; &emsp; &emsp; “hing-” “hi-”<br>
+	&emsp; &emsp; Strong insistence<br>
+	&emsp; &emsp; Inchoative action<br>
+	&emsp; &emsp; Habitual locative<br>
+		&emsp; &emsp; &emsp; &emsp; “isig-” “masig-”<br>
+		&emsp; &emsp; &emsp; &emsp; “hinay-” “punay-”<br>
+	&emsp; &emsp; The reciprocative
 	
-TIT. XXI. OTHER INFLECTIONS, CONTINUED
-	The ibidemitive
-		“inay”
-	The reduplicatives
-	Indicating faux actions
-	“-in-”
-	“tag-” “taga-” “tig-” “ting-” “tug-”
+TIT. XXI. OTHER INFLECTIONS, CONTINUED<br>
+	&emsp; &emsp; The ibidemitive<br>
+		&emsp; &emsp; &emsp; &emsp; “inay”<br>
+	&emsp; &emsp; The reduplicatives<br>
+	&emsp; &emsp; Indicating faux actions<br>
+	&emsp; &emsp; “-in-”<br>
+	&emsp; &emsp; “tag-” “taga-” “tig-” “ting-” “tug-”
 	
-TIT. XXII. WHAT ARE THEIR MEANINGS
-	“mao”
-		“ayaw” “dili’” and “ayaw”
-		“sa” and “ug”
-		“unsa”
-		“ilhanan” “timaan” “tilimad’on”
+TIT. XXII. WHAT ARE THEIR MEANINGS<br>
+	&emsp; &emsp; “mao”<br>
+		&emsp; &emsp; &emsp; &emsp; “ayaw” “dili’” and “ayaw”<br>
+		&emsp; &emsp; &emsp; &emsp; “sa” and “ug”<br>
+		&emsp; &emsp; &emsp; &emsp; “unsa”<br>
+		&emsp; &emsp; &emsp; &emsp; “ilhanan” “timaan” “tilimad’on”
 	
-TIT. XXIII. ADJECTIVES
-	“ma- -un”
-	“manggi- -un”
-	“ma-” “maka-” “makapa-” “ka- -an” “pala-”
+TIT. XXIII. ADJECTIVES<br>
+	&emsp; &emsp; “ma- -un”<br>
+	&emsp; &emsp; “manggi- -un”<br>
+	&emsp; &emsp; “ma-” “maka-” “makapa-” “ka- -an” “pala-”
 	
-TIT. XXIV. ADVERBS
-		“asa” “hain” “diin”
-		“dinhi” “dinha’” “didto”
+TIT. XXIV. ADVERBS<br>
+		&emsp; &emsp; &emsp; &emsp; “asa” “hain” “diin”<br>
+		&emsp; &emsp; &emsp; &emsp; “dinhi” “dinha’” “didto”
 	
-TIT. XXV. FOREIGN WORDS
-	Two threats
-	The actual thought
-	Creating new words
+TIT. XXV. FOREIGN WORDS<br>
+	&emsp; &emsp; Two threats<br>
+	&emsp; &emsp; The actual thought<br>
+	&emsp; &emsp; Creating new words
 	
-TIT. XXVI. FINAL THOUGHTS
-	Merits and drawbacks
-	Suggestions
-	Conclusion
+TIT. XXVI. FINAL THOUGHTS<br>
+	&emsp; &emsp; Merits and drawbacks<br>
+	&emsp; &emsp; Suggestions<br>
+	&emsp; &emsp; Conclusion
 	
-APPENDIX
-I Other affixatives
-II Passives, continued
+APPENDIX<br>
+I Other affixatives<br>
+II Passives, continued<br>
 III Malay, Javanese, and Visayan
-</pre>
