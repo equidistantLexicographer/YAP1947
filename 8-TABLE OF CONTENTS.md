@@ -135,7 +135,7 @@ TIT. XVIX. IMPERATIVES<br>
 	
 TIT. XX. OTHER INFLECTIONS<br>
 	&emsp; &emsp; Dispositional<br>
-	&emsp; &emsp; A few changes in pronunciation<br>
+	&emsp; &emsp; A few alternations in pronunciation<br>
 		&emsp; &emsp; &emsp; &emsp; “hing-” “hi-”<br>
 	&emsp; &emsp; Emphatic<br>
 	&emsp; &emsp; Inchoative<br>
