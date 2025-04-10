@@ -157,7 +157,7 @@ TIT. XXII. WHAT ARE THEIR MEANINGS<br>
 		&emsp; &emsp; &emsp; &emsp; “ayaw” “dili’” and “ayaw”<br>
 		&emsp; &emsp; &emsp; &emsp; “sa” and “ug”<br>
 		&emsp; &emsp; &emsp; &emsp; “unsa”<br>
-		&emsp; &emsp; &emsp; &emsp; “ilhanan” “timaan” “tilimad’on”
+		&emsp; &emsp; &emsp; &emsp; “ilhanan” “timaan” “tilimad’un”
 	
 TIT. XXIII. ADJECTIVES<br>
 	&emsp; &emsp; “ma- -un”<br>
