@@ -2,11 +2,11 @@ TABLE OF CONTENTS
 
 PREFACE
 
-TIT. I. OUR LANGUAGE’S TYPE<br>
+CHAP. I. OUR LANGUAGE’S TYPE<br>
 	&emsp; &emsp; Different languages<br>
 	&emsp; &emsp; Our Visayan tongue
 	
-TIT. II. VISAYAN AND HEBREW<br>
+CHAP. II. VISAYAN AND HEBREW<br>
 	&emsp; &emsp; The alphabet<br>
 	&emsp; &emsp; Method of writing<br>
 	&emsp; &emsp; The accents<br>
@@ -17,13 +17,13 @@ TIT. II. VISAYAN AND HEBREW<br>
 	&emsp; &emsp; Kindred words<br>
 	&emsp; &emsp; A few lessons
 	
-TIT. III. THE USAGE OF THE HYPHEN<br>
+CHAP. III. THE USAGE OF THE HYPHEN<br>
 	&emsp; &emsp; Dissenting reasons<br>
 	&emsp; &emsp; A brief event<br>
 	&emsp; &emsp; Concurring reasons<br>
 	&emsp; &emsp; When to use the hyphen
 	
-TIT. IV. THE ACCENT IN VISAYAN<br>
+CHAP. IV. THE ACCENT IN VISAYAN<br>
 	&emsp; &emsp; Preface<br>
 	&emsp; &emsp; That of Father Kaufmann’s<br>
 	&emsp; &emsp; That of the three accents<br>
@@ -32,7 +32,7 @@ TIT. IV. THE ACCENT IN VISAYAN<br>
 		&emsp; &emsp; &emsp; &emsp; The final “h”<br>
 		&emsp; &emsp; &emsp; &emsp; Reasons gathered
 	
-TIT. V. RULES OF USAGE<br>
+CHAP. V. RULES OF USAGE<br>
 	&emsp; &emsp; Preface<br>
 	&emsp; &emsp; Consonants<br>
 	&emsp; &emsp; Vowels<br>
@@ -40,26 +40,26 @@ TIT. V. RULES OF USAGE<br>
 	&emsp; &emsp; Accent<br>
 	&emsp; &emsp; Clarifications
 	
-TIT. VI. THE “CONTRACTION MARK”<br>
+CHAP. VI. THE “CONTRACTION MARK”<br>
 	&emsp; &emsp; Two threats<br>
 	&emsp; &emsp; Concurring reasons<br>
 	&emsp; &emsp; Responses<br>
 	&emsp; &emsp; Gullas’ error<br>
 	&emsp; &emsp; Dissenting reasons
 	
-TIT. VII. THE RULE AS TO “UO”
+CHAP. VII. THE RULE AS TO “UO”
 	
-TIT. VIII. SUBDIVIDING OUR LEXICON<br>
+CHAP. VIII. SUBDIVIDING OUR LEXICON<br>
 	&emsp; &emsp; How it is to be subdivided<br>
 	&emsp; &emsp; How many parts<br>
 	&emsp; &emsp; The neatness of this subdivision
 	
-TIT. IX. THE NOUN-SUBSTIUTIVES<br>
+CHAP. IX. THE NOUN-SUBSTIUTIVES<br>
 	&emsp; &emsp; Not contrary to the new subdivision<br>
 	&emsp; &emsp; Their meaning<br>
 	&emsp; &emsp; How many cases are there in Bisaya
 	
-TIT. X. THE ATTRIBUTIVES<br>
+CHAP. X. THE ATTRIBUTIVES<br>
 	&emsp; &emsp; Actual traits<br>
 	&emsp; &emsp; Tenses of our verbs<br>
 	&emsp; &emsp; Table<br>
@@ -69,7 +69,7 @@ TIT. X. THE ATTRIBUTIVES<br>
 	&emsp; &emsp; List of our affixatives<br>
 	&emsp; &emsp; The quantity of the forms
 	
-TIT. XI. MEANING OF THE AFFIXATIVES<br>
+CHAP. XI. MEANING OF THE AFFIXATIVES<br>
 	&emsp; &emsp; Methods in the comprehension of their meaning<br>
 	&emsp; &emsp; The Perfects<br>
 		&emsp; &emsp; &emsp; &emsp; “ma-” and “na-”<br>
@@ -78,7 +78,7 @@ TIT. XI. MEANING OF THE AFFIXATIVES<br>
 		&emsp; &emsp; &emsp; &emsp; “maka-” and “naka-”<br>
 	&emsp; &emsp; Is “maka-” a potential
 	
-TIT. XII. THE PERFECTS, CONTINUED<br>
+CHAP. XII. THE PERFECTS, CONTINUED<br>
 		&emsp; &emsp; &emsp; &emsp; “makapa-” and “nakapa-”<br>
 		&emsp; &emsp; &emsp; &emsp; “mu-”<br>
 		&emsp; &emsp; &emsp; &emsp; “mi-” and “ni-”<br>
@@ -88,7 +88,7 @@ TIT. XII. THE PERFECTS, CONTINUED<br>
 		&emsp; &emsp; &emsp; &emsp; “ka- -an”<br>
 	&emsp; &emsp; Is “ka- -an” a potential
 	
-TIT. XIII. OTHER PERFECTS<br>
+CHAP. XIII. OTHER PERFECTS<br>
 		&emsp; &emsp; &emsp; &emsp; “pa- -an”<br>
 		&emsp; &emsp; &emsp; &emsp; “paka- -an”<br>
 		&emsp; &emsp; &emsp; &emsp; “paka- -un”<br>
@@ -98,24 +98,24 @@ TIT. XIII. OTHER PERFECTS<br>
 		&emsp; &emsp; &emsp; &emsp; “ipa-” and “ika-”<br>
 		&emsp; &emsp; &emsp; &emsp; “ipaka-”
 	
-TIT. XIV. THE IMPERFECTS<br>
+CHAP. XIV. THE IMPERFECTS<br>
 		&emsp; &emsp; &emsp; &emsp; “naga-, nag-” “maga-, mag-”<br>
 		&emsp; &emsp; &emsp; &emsp; “nagapa-, nagaka-” “magapa-, magaka-”<br>
 		&emsp; &emsp; &emsp; &emsp; “nagapaka-” and “magapaka-”<br>
 		&emsp; &emsp; &emsp; &emsp; “nagpanga-” “magpanga-”
 	
-TIT. XV. OTHER IMPERFECTS<br>
+CHAP. XV. OTHER IMPERFECTS<br>
 		&emsp; &emsp; &emsp; &emsp; “pag-” “panag-” “pang-” “pagpang-”<br>
 		&emsp; &emsp; &emsp; &emsp; “pagpa-” “pagka-”<br>
 		&emsp; &emsp; &emsp; &emsp; “pagpaka-” “panagpaka-”<br>
 		&emsp; &emsp; &emsp; &emsp; “pagpakanaga-” “pagpakamaga-”
 	
-TIT. XVI. THE PASSIVE IMPERFECTS<br>
+CHAP. XVI. THE PASSIVE IMPERFECTS<br>
 		&emsp; &emsp; &emsp; &emsp; “gi-” “gina-”<br>
 		&emsp; &emsp; &emsp; &emsp; “gipa-” “gika-” “gipaka-”<br>
 		&emsp; &emsp; &emsp; &emsp; “gi- -an” “gipa- -an” “gika- -an” “gipaka- -an”
 	
-TIT. XVII. OTHER PASSIVE IMPERFECTS<br>
+CHAP. XVII. OTHER PASSIVE IMPERFECTS<br>
 		&emsp; &emsp; &emsp; &emsp; “gipanag-” and “gipang-”<br>
 		&emsp; &emsp; &emsp; &emsp; “gipanag- -an” and “gipang- -an”<br>
 		&emsp; &emsp; &emsp; &emsp; “gipapa-” and “gipapa- -an”<br>
@@ -124,16 +124,16 @@ TIT. XVII. OTHER PASSIVE IMPERFECTS<br>
 		&emsp; &emsp; &emsp; &emsp; “ig-” and “iga-”<br>
 		&emsp; &emsp; &emsp; &emsp; “pagapaka- -an” “pagapaka- -un”
 	
-TIT. XVIII. VERBS WHICH HAVE NOMINALITY<br>
+CHAP. XVIII. VERBS WHICH HAVE NOMINALITY<br>
 		&emsp; &emsp; &emsp; &emsp; “Verbal Nouns”<br>
 		&emsp; &emsp; &emsp; &emsp; “Abstract Nouns”
 	
-TIT. XVIX. IMPERATIVES<br>
+CHAP. XVIX. IMPERATIVES<br>
 	&emsp; &emsp; Their types<br>
 	&emsp; &emsp; Their forms, reasons for it<br>
 	&emsp; &emsp; Their meanings
 	
-TIT. XX. OTHER INFLECTIONS<br>
+CHAP. XX. OTHER INFLECTIONS<br>
 	&emsp; &emsp; Dispositional<br>
 	&emsp; &emsp; A few alternations in pronunciation<br>
 		&emsp; &emsp; &emsp; &emsp; “hing-” “hi-”<br>
@@ -144,7 +144,7 @@ TIT. XX. OTHER INFLECTIONS<br>
 		&emsp; &emsp; &emsp; &emsp; “hinay-” “punay-”<br>
 	&emsp; &emsp; The reciprocative
 	
-TIT. XXI. OTHER INFLECTIONS, CONTINUED<br>
+CHAP. XXI. OTHER INFLECTIONS, CONTINUED<br>
 	&emsp; &emsp; Coincidentive <br>
 		&emsp; &emsp; &emsp; &emsp; “inay”<br>
 	&emsp; &emsp; The reduplicatives<br>
@@ -152,28 +152,28 @@ TIT. XXI. OTHER INFLECTIONS, CONTINUED<br>
 	&emsp; &emsp; “-in-”<br>
 	&emsp; &emsp; “tag-” “taga-” “tig-” “ting-” “tug-”
 	
-TIT. XXII. WHAT ARE THEIR MEANINGS<br>
+CHAP. XXII. WHAT ARE THEIR MEANINGS<br>
 	&emsp; &emsp; “mao”<br>
 		&emsp; &emsp; &emsp; &emsp; “ayaw” “dili’” and “ayaw”<br>
 		&emsp; &emsp; &emsp; &emsp; “sa” and “ug”<br>
 		&emsp; &emsp; &emsp; &emsp; “unsa”<br>
 		&emsp; &emsp; &emsp; &emsp; “ilhanan” “timaan” “tilimad’un”
 	
-TIT. XXIII. ADJECTIVES<br>
+CHAP. XXIII. ADJECTIVES<br>
 	&emsp; &emsp; “ma- -un”<br>
 	&emsp; &emsp; “manggi- -un”<br>
 	&emsp; &emsp; “ma-” “maka-” “makapa-” “ka- -an” “pala-”
 	
-TIT. XXIV. ADVERBS<br>
+CHAP. XXIV. ADVERBS<br>
 		&emsp; &emsp; &emsp; &emsp; “asa” “hain” “diin”<br>
 		&emsp; &emsp; &emsp; &emsp; “dinhi” “dinha’” “didto”
 	
-TIT. XXV. FOREIGN WORDS<br>
+CHAP. XXV. FOREIGN WORDS<br>
 	&emsp; &emsp; Two threats<br>
 	&emsp; &emsp; The actual thought<br>
 	&emsp; &emsp; Creating new words
 	
-TIT. XXVI. FINAL THOUGHTS<br>
+CHAP. XXVI. FINAL THOUGHTS<br>
 	&emsp; &emsp; Merits and drawbacks<br>
 	&emsp; &emsp; Suggestions<br>
 	&emsp; &emsp; Conclusion
