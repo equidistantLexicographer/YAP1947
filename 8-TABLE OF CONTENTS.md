@@ -134,21 +134,21 @@ TIT. XVIX. IMPERATIVES<br>
 	&emsp; &emsp; Their meanings
 	
 TIT. XX. OTHER INFLECTIONS<br>
-	&emsp; &emsp; Indicating disposition<br>
+	&emsp; &emsp; Dispositional<br>
 	&emsp; &emsp; A few changes in pronunciation<br>
 		&emsp; &emsp; &emsp; &emsp; “hing-” “hi-”<br>
-	&emsp; &emsp; Strong insistence<br>
-	&emsp; &emsp; Inchoative action<br>
-	&emsp; &emsp; Habitual locative<br>
+	&emsp; &emsp; Emphatic<br>
+	&emsp; &emsp; Inchoative<br>
+	&emsp; &emsp; Inclinative<br>
 		&emsp; &emsp; &emsp; &emsp; “isig-” “masig-”<br>
 		&emsp; &emsp; &emsp; &emsp; “hinay-” “punay-”<br>
 	&emsp; &emsp; The reciprocative
 	
 TIT. XXI. OTHER INFLECTIONS, CONTINUED<br>
-	&emsp; &emsp; The ibidemitive<br>
+	&emsp; &emsp; Coincidentive <br>
 		&emsp; &emsp; &emsp; &emsp; “inay”<br>
 	&emsp; &emsp; The reduplicatives<br>
-	&emsp; &emsp; Indicating faux actions<br>
+	&emsp; &emsp; Quasitative <br>
 	&emsp; &emsp; “-in-”<br>
 	&emsp; &emsp; “tag-” “taga-” “tig-” “ting-” “tug-”
 	
