@@ -141,7 +141,7 @@ CHAP. XX. OTHER INFLECTIONS<br>
 	&emsp; &emsp; Inchoative<br>
 	&emsp; &emsp; Inclinative<br>
 		&emsp; &emsp; &emsp; &emsp; “isig-” “masig-”<br>
-		&emsp; &emsp; &emsp; &emsp; “hinay-” “punay-”<br>
+		&emsp; &emsp; &emsp; &emsp; “hinay” “punay”<br>
 	&emsp; &emsp; The reciprocative
 	
 CHAP. XXI. OTHER INFLECTIONS, CONTINUED<br>
