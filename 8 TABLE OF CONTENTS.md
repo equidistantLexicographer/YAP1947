@@ -1,8 +1,10 @@
+<pre>
 TABLE OF CONTENTS
 
 PREFACE.
+
 TIT. I. OUR LANGUAGE’S TYPE
-	Different languages
+        Different languages
 	Our Visayan tongue
 TIT. II. VISAYAN AND HEBREW
 	The alphabet
@@ -155,3 +157,4 @@ APPENDIX
 I Other affixatives
 II Passives, continued
 III Malay, Javanese, and Visayan
+</pre>
